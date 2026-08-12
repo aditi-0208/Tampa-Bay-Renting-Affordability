@@ -69,3 +69,5 @@ The dashboard includes a parameter control that switches the rent benchmark betw
 ## Viewing the Workbook
 
 Open the `.twbx` file in Tableau Desktop or the free Tableau Reader. The packaged workbook includes all data extracts, so no additional downloads are needed.
+
+**[View the interactive dashboard on Tableau Public →](https://public.tableau.com/app/profile/aditi.malik4972/viz/TampaBayHousingAffordability/TampaBayRentalAffordabilityDashboard)**
